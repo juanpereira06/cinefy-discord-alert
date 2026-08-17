@@ -80,7 +80,7 @@ message = {
         "@everyone 🎬 **VOD NOVO NO JUANZONE!** 💜\n\n"
         "Perdeu a live ou quer assistir de novo? 👀🍿\n\n"
         f"🎥 **{title}**\n"
-        f"🔗 {vod_url}"
+        "🔗 Assista no Cinefy: https://cinefy.gg/juanzone"
     ),
     "allowed_mentions": {
         "parse": ["everyone"]
